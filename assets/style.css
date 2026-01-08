@@ -1,7 +1,7 @@
 body {
   font-family: system-ui, sans-serif;
   background: #ffffff;
-  color: #000000;
+  color: #ffffff;
   margin: 0;
 }
 
@@ -45,4 +45,5 @@ body {
   margin-top: 10px;
   color: #ff6b6b;
 }
+
 
