@@ -11,7 +11,9 @@ body {
   padding: 24px;
   border: 1px solid #223;
   border-radius: 12px;
-  background: #0f1620;
+  background: #ffffff;
+  border: 1px solid #ccc;
+  color: #ffffff;
 }
 
 .label {
@@ -45,5 +47,6 @@ body {
   margin-top: 10px;
   color: #ff6b6b;
 }
+
 
 
