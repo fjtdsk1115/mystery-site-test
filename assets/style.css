@@ -1,0 +1,47 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #0b0f14;
+  color: #e6edf3;
+  margin: 0;
+}
+
+.card {
+  max-width: 520px;
+  margin: 12vh auto;
+  padding: 24px;
+  border: 1px solid #223;
+  border-radius: 12px;
+  background: #0f1620;
+}
+
+.label {
+  display: block;
+  margin: 14px 0 6px;
+  opacity: .85;
+}
+
+.input {
+  width: 100%;
+  padding: 12px;
+  border-radius: 10px;
+  border: 1px solid #334;
+  background: #0b0f14;
+  color: #e6edf3;
+}
+
+.btn {
+  margin-top: 12px;
+  width: 100%;
+  padding: 12px;
+  border-radius: 10px;
+  border: 1px solid #334;
+  background: #182234;
+  color: #e6edf3;
+  cursor: pointer;
+}
+
+.msg {
+  min-height: 1.2em;
+  margin-top: 10px;
+  color: #ff6b6b;
+}
