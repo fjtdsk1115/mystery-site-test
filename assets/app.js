@@ -1,4 +1,4 @@
-const ANSWER = "test111";
+const ANSWER = "test";
 
 const pw = document.getElementById("pw");
 const btn = document.getElementById("btn");
@@ -20,4 +20,5 @@ btn.addEventListener("click", go);
 pw.addEventListener("keydown", (e) => {
   if (e.key === "Enter") go();
 });
+
 
